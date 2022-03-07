@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "m_app_phuthipong",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

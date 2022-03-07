@@ -1,0 +1,7 @@
+{
+  "name": "m_app_phuthipong",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
